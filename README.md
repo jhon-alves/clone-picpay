@@ -1,1 +1,1 @@
-# clone-picpay
+# Clone PicPay
